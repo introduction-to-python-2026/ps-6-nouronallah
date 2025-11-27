@@ -1,4 +1,4 @@
-def test_create_codon_dict(file_path):
+def create_codon_dict(file_path):
     codon_dict = {}
     
     file = open(file_path)
